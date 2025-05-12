@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
+  <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://giphy.com/gifs/JIX9t2j0ZTN9S)" width="600"/>
 </div>
 
 ## 🌟 About Me
 
-* 🔭 I’m currently working on mobile apps using Kotlin and Jetpack Compose.
-* 🌱 I’m currently learning advanced backend development.
-* 💬 Ask me about Android, Jetpack Compose, or Kotlin.
+* 👨‍🎓 I’m an active student majoring in Informatics.
+* 🌱 Currently I am studying web frontend backend development and also learning mobile apps development using kotlin and jetpack compose.
+* 💬 don't ask me about it, i'm just a newbie :>
 * 📫 How to reach me: [irvandiramadhanabbas@gmail.com](mailto:irvandiramadhanabbas@gmail.com)
 
 ---
