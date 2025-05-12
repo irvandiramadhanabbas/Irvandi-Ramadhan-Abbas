@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1527236438218-d82077ae1f85" alt="Coding Banner" width="100%" />
+  <svg width="100%" height="200">
+    <rect width="100%" height="200" fill="#282a36"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="24">Welcome to My GitHub Profile!</text>
+  </svg>
 </div>
 
 
