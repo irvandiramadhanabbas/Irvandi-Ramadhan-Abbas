@@ -45,13 +45,13 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="irvandiramadhana3@gmail.com">
+  <a href="mailto:irvandiramadhana3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/irvandiramadhanabbas">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_irvandiramadhan.a">
+  <a href="https://instagram.com/irvandiramadhanabbas">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
