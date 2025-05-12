@@ -28,12 +28,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=irvandiramadhanabbas&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvandiramadhanabbas&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=waka_c6e56297-fe2e-46b5-afd5-7d328ced2b58&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waka_c6e56297-fe2e-46b5-afd5-7d328ced2b58&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=waka_c6e56297-fe2e-46b5-afd5-7d328ced2b58&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 ## ⌚ A snapshot of my WakaTime coding hours
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irvandiramadhanabbas&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=waka_c6e56297-fe2e-46b5-afd5-7d328ced2b58&layout=compact&theme=radical" />
 </div>
 
 ---
