@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://giphy.com/gifs/JIX9t2j0ZTN9S" width="600"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
 </div>
 
 ## 🌟 About Me
