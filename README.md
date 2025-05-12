@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+Irvandi+Ramadhan+Abbas;Always+learning+something" />
+</div>
+
+---
+
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
 <div align="center">
@@ -59,6 +65,14 @@
 
 ---
 
+## 🌈 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -75,4 +89,10 @@
 
 ---
 
-> 🌟 "Code, Learn, Repeat!"
+## 💻 Sample Code
+
+```kotlin
+fun greet() {
+    println("Code, Learn, Repeat!")
+}
+```
