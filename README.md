@@ -68,7 +68,7 @@
 ## 🌈 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=manusia hanyalah alat😈" />
 </div>
 
 ---
