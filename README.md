@@ -15,6 +15,14 @@
 
 ---
 
+## ✨ Animated Typing Effect
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Kotlin+Developer;Always+learning+something+new" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -41,10 +49,18 @@
 
 ---
 
-## ⌚ Coding Time on WakaTime
+## 🌈 Random Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Irvandiramadhanabbas&layout=compact&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 💡 Dev Card
+
+<div align="center">
+  <img src="https://github.com/Irvandiramadhanabbas/Irvandiramadhanabbas/blob/main/devcard.svg" width="400" />
 </div>
 
 ---
@@ -65,8 +81,10 @@
 
 ---
 
-## 🌈 Random Dev Quote
+## 💻 Sample Code
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+```kotlin
+fun greet() {
+    println("Hello, welcome to my GitHub!")
+}
+```
