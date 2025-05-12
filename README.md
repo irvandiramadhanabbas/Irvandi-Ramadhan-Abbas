@@ -42,6 +42,14 @@
 
 ---
 
+## ⌚ A snapshot of my WakaTime coding hours
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irvandiramadhanabbas&layout=compact&theme=radical" />
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
