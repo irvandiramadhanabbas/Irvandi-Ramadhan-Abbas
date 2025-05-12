@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Background" width="100%" />
+  <img src="https://images.unsplash.com/photo-1527236438218-d82077ae1f85" alt="Coding Banner" width="100%" />
 </div>
+
 
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
