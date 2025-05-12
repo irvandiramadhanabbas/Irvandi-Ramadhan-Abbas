@@ -9,8 +9,8 @@
 ## 🌟 About Me
 
 * 👨‍🎓 I’m an active student majoring in Informatics.
-* 🌱 Currently I am studying web frontend backend development and also learning mobile apps development using kotlin and jetpack compose.
-* 💬 don't ask me about it, i'm just a newbie :>
+* 🌱 Currently I am studying web frontend backend development and also learning mobile apps development using Kotlin and Jetpack Compose.
+* 💬 Don't ask me about it, I'm just a newbie :>
 * 📫 How to reach me: [irvandiramadhanabbas@gmail.com](mailto:irvandiramadhanabbas@gmail.com)
 
 ---
@@ -35,14 +35,16 @@
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Irvandiramadhanabbas&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvandiramadhanabbas&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvandiramadhanabbas&theme=radical" />
 </div>
 
+---
+
+## ⌚ Coding Time on WakaTime
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvandiramadhanabbas&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Irvandiramadhanabbas&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -59,4 +61,12 @@
   <a href="https://instagram.com/_irvandiramadhan.a">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</div>
+
+---
+
+## 🌈 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
