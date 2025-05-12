@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+Irvandi+Ramadhan+Abbas;Always+learning+something" />
-</div>
-
----
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
 <div align="center">
@@ -14,7 +9,7 @@
 ## 🌟 About Me
 
 * 👨‍🎓 I’m an active student majoring in Informatics.
-* 🌱 Currently I am studying web frontend backend development and also learning mobile apps development using Kotlin and Jetpack Compose.
+* 🌱 Currently studying web frontend and backend development, and mobile apps development using Kotlin and Jetpack Compose.
 * 💬 Don't ask me about it, I'm just a newbie :>
 * 📫 How to reach me: [irvandiramadhanabbas@gmail.com](mailto:irvandiramadhanabbas@gmail.com)
 
@@ -38,26 +33,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Irvandiramadhanabbas&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvandiramadhanabbas&layout=compact&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=irvandiramadhanabbas&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvandiramadhanabbas&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvandiramadhanabbas&theme=radical" />
 </div>
 
 ---
 
-## 🌈 Random Dev Quote
+## 🪪 Dev Card
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 💡 Dev Card
-
-<div align="center">
-  <img src="https://github.com/Irvandiramadhanabbas/Irvandiramadhanabbas/blob/main/devcard.svg" width="400" />
+  <a href="https://github.com/irvandiramadhanabbas">
+    <img src="https://github.com/irvandiramadhanabbas/devcard/raw/main/profile-summary-card-output/default/0-profile-details.svg" />
+  </a>
 </div>
 
 ---
@@ -78,10 +73,4 @@
 
 ---
 
-## 💻 Sample Code
-
-```kotlin
-fun greet() {
-    println("Hello, welcome to my GitHub!")
-}
-```
+> 🌟 "Code, Learn, Repeat!"
