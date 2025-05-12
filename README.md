@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Background" width="100%" />
+</div>
+
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
 <div align="center">
