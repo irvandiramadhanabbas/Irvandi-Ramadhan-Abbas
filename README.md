@@ -68,7 +68,7 @@
 ## 🌈 Random Dev Quote
 
 <div align="center">
-  <img src="[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </div>
 
 ---
