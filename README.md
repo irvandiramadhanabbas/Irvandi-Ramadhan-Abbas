@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+Irvandi+Ramadhan+Abbas;Always+learning+something" />
+</div>
+
+---
 # 👋 Hi, I'm Irvandi Ramadhan Abbas!
 
 <div align="center">
@@ -12,12 +17,6 @@
 * 🌱 Currently I am studying web frontend backend development and also learning mobile apps development using Kotlin and Jetpack Compose.
 * 💬 Don't ask me about it, I'm just a newbie :>
 * 📫 How to reach me: [irvandiramadhanabbas@gmail.com](mailto:irvandiramadhanabbas@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+Irvandi+Ramadhan+Abbas;Always+learning+something" />
-</div>
 
 ---
 
