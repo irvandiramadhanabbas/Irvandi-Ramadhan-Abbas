@@ -65,10 +65,10 @@
 
 ---
 
-## 🌈 Random Dev Quote
+## 💡 Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=When%20something%20is%20important%20enough%2C%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.%20-%20Elon%20Musk" />
 </div>
 
 ---
