@@ -18,7 +18,7 @@
 ## ✨ Animated Typing Effect
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Kotlin+Developer;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+Irvandi+Ramadhan+Abbas;Always+learning+something" />
 </div>
 
 ---
