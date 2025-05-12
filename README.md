@@ -50,9 +50,11 @@
 ## 🪪 Dev Card
 
 <div align="center">
-  <a href="https://github.com/irvandiramadhanabbas">
-    <img src="https://github.com/irvandiramadhanabbas/devcard/raw/main/profile-summary-card-output/default/0-profile-details.svg" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irvandiramadhanabbas&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irvandiramadhanabbas&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irvandiramadhanabbas&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irvandiramadhanabbas&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irvandiramadhanabbas&theme=radical" />
 </div>
 
 ---
