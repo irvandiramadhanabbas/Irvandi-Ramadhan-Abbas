@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 ---
@@ -31,12 +35,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=irvandiramadhanabbas&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvandiramadhanabbas&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Irvandiramadhanabbas&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvandiramadhanabbas&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
@@ -48,7 +52,7 @@
 ## ⌚ A snapshot of my WakaTime coding hours
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Irvandiramadhanabbas&layout=compact&theme=radical" />
+  <img src="https://camo.githubusercontent.com/a275acb7c46454d18ed726a72ce2bb194972c0a9776359b05a1279f85d9c322b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d497276616e646972616d616468616e6162626173266c61796f75743d636f6d70616374267468656d653d7261646963616c" />
 </div>
 
 ---
