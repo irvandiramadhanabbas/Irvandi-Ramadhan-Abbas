@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irvandiramadhanabbas&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irvandiramadhanabbas&theme=gruvbox&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
